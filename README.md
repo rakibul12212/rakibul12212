@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm MD Rakibul Islam</h1>
-<h3 align="center">Tech enthusiast</h3>
+<h3 align="center">Front-End-Developer</h3>
 
 
 
