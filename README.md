@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Rakibul Islam</h1>
-<h3 align="center">MERN-Stack Developer </h3>
+<h3 align="center">Front-End-Developer from Bangladesh</h3>
 
 
 - 🔭 I’m currently working at **Home**
@@ -13,7 +13,7 @@
 
 ## MERN 
 <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/mern-stack-5363121-4488910.png" width="50">  
-<p><img src="./img/mongodb.png" width="45">&nbsp;&nbsp;<img src="./img/nodejs.png" width="45">&nbsp;&nbsp;<img src="./img/react.png" width="45"></p>
+<p><img src="https://res.cloudinary.com/hevo/image/upload/v1626694700/hevo-blog/MongoDB-sm-logo-500x400-1-1.gif" width="45">&nbsp;&nbsp;<img src="https://www.google.com/search?q=nodejs&tbm=isch&hl=en-GB&chips=q:nodejs,g_1:logo:0fqhnx2DI0Q%3D,g_1:programming+language:2g2nfo0vsR4%3D&rlz=1C1ONGR_enBD1012BD1012&sa=X&ved=2ahUKEwiV9abzkO79AhXv-3MBHZLnB00Q4lYoBHoECAEQMA&biw=1519&bih=731" width="45">&nbsp;&nbsp;<img src=".https://www.google.com/search?q=react&rlz=1C1ONGR_enBD1012BD1012&sxsrf=AJOqlzU6d5MWBoBB1-oKp_hi5Yx-21Mg-w:1679439987995&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdoZ-_ke79AhURVWwGHUfSAC4Q_AUoAXoECAEQAw&biw=1536&bih=731&dpr=1.25" width="45"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
