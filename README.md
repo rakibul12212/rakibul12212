@@ -13,7 +13,7 @@
 
 ## MERN 
 <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/mern-stack-5363121-4488910.png" width="50">  
-<p><img src="https://res.cloudinary.com/hevo/image/upload/v1626694700/hevo-blog/MongoDB-sm-logo-500x400-1-1.gif" width="45">&nbsp;&nbsp;<img src="https://www.google.com/search?q=nodejs&tbm=isch&hl=en-GB&chips=q:nodejs,g_1:logo:0fqhnx2DI0Q%3D,g_1:programming+language:2g2nfo0vsR4%3D&rlz=1C1ONGR_enBD1012BD1012&sa=X&ved=2ahUKEwiV9abzkO79AhXv-3MBHZLnB00Q4lYoBHoECAEQMA&biw=1519&bih=731" width="45">&nbsp;&nbsp;<img src=".https://www.google.com/search?q=react&rlz=1C1ONGR_enBD1012BD1012&sxsrf=AJOqlzU6d5MWBoBB1-oKp_hi5Yx-21Mg-w:1679439987995&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdoZ-_ke79AhURVWwGHUfSAC4Q_AUoAXoECAEQAw&biw=1536&bih=731&dpr=1.25" width="45"></p>
+<p><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
