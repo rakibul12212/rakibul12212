@@ -9,7 +9,7 @@
 - 💬 Ask me about **HTML , CSS**
 
 - 📫 How to reach me **rakibulislamr83@gmail.com**
-- Portfolio : https://magenta-choux-428e51.netlify.app
+- Portfolio : (https://my-portfolio-one-black-23.vercel.app/)
 
 
 ## MERN 
