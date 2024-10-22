@@ -9,7 +9,7 @@
 - 💬 Ask me about **HTML , CSS**
 
 - 📫 How to reach me **rakibulislamr83@gmail.com**
-- Portfolio : https://my-portfolio-one-black-23.vercel.app/
+- Portfolio : https://rakibulislamr83.vercel.app
 
 
 ## MERN 
