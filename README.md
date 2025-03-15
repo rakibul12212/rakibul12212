@@ -13,7 +13,7 @@
 - 🚀 I’m passionate about **web development** and **building impactful software**
 - 🛠 Currently working with **React, Next.js, Node.js, MongoDB, Tailwind CSS**
 - 🌱 I’m constantly learning **TypeScript**, **Redux Toolkit**, and **system design**
-- 📫 Reach me at: **rakibulislam.dev@gmail.com**
+- 📫 Reach me at: **https://mdrakibulislam-portfolio.vercel.app/**
 
 ---
 
