@@ -25,16 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  (https://github-readme-stats.vercel.app/api?username=rakibul12212&hide=contribs,prs)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul-Islam-R&theme=radical" alt="GitHub Streak Stats" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul-Islam-R&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
