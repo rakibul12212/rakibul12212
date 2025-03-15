@@ -29,20 +29,15 @@
 
 ### 📈 GitHub Stats
 
-<div align="center" style="padding: 20px;">
-
- 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rakibul12212&show_icons=true&theme=radical&hide_border=true&border_radius=12" style="width: 350px; max-width: 100%;" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.vercel.app/?user=rakibul12212&theme=radical&hide_border=true&border_radius=12" style="width: 720px; max-width: 100%;" alt="GitHub Streak Stats" />
-  
-  </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&theme=radical&hide_border=true&border_radius=12" style="width: 350px; max-width: 100%;" alt="Top Languages" />
-  <div>
-   
-  </div>
-
-</div>
+<p align="left">
+<a href="https://github.com/mhShohan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakibul12212&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<p align="center">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul12212&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F" />
+</p>
 
 ---
 
