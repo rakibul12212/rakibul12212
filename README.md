@@ -28,7 +28,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakibul-Islam-R&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul-Islam-R&theme=radical" alt="GitHub Streak Stats" height="180px"/>
 </p>
 
