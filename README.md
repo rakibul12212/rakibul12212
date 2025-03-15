@@ -29,15 +29,17 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
-<a href="https://github.com/rakibul12212">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakibul12212&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&langs_count=8&theme=dark"/>
-</a>
+<p align="center">
+  <a href="https://github.com/rakibul12212">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakibul12212&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&langs_count=8&theme=dark" />
+  </a>
 </p>
+
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul12212&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F" />
 </p>
+
 
 ---
 
