@@ -23,22 +23,19 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwindcss,redux,git,github,vscode,figma&theme=dark" />
 </p>
 
----
-
-
 
 ---
 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rakibul-islam-r/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-rakibul-islam-36582620b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rakibulislam.dev@gmail.com">
+  <a href="mailto:rakibulislamr83@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://rakibul-portfolio.vercel.app/" target="_blank">
+  <a href="https://mdrakibulislam-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
