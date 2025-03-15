@@ -31,7 +31,7 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=rakibul12212&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="30%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&theme=radical&hide_border=true&border_radius=12" width="30%" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=rakibul12212&theme=radical&hide_border=true&border_radius=12" width="30%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibul12212" width="30%" alt="GitHub Streak Stats" />
 </div>
 
 
