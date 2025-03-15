@@ -13,7 +13,7 @@
 - 🚀 Passionate about **web development** and building **impactful software**
 - 💻 Currently working with **React, Next.js, Node.js, MongoDB, Tailwind CSS**
 - 📚 Learning **TypeScript**, **Redux Toolkit**, and **System Design**
-- 🌐 Portfolio: [mdrakibulislam-portfolio.vercel.app]
+- 🌐 Portfolio: **mdrakibulislam-portfolio.vercel.app**
 - 📫 Email: **rakibulislamr83@gmail.com**
 
 ---
@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakibul12212&show_icons=true&theme=radical&hide_border=true&border_radius=12" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakibul12212&theme=radical&hide_border=true&border_radius=12" height="180px" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=rakibul12212&theme=radical&hide_border=true&border_radius=12" height="180px" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
