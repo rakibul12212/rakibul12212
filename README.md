@@ -28,12 +28,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakibul12212&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="70%" alt="GitHub Stats" />
-</p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&theme=radical&hide_border=true&border_radius=12" width="70%" alt="Top Languages" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibul12212&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&theme=radical&hide_border=true&border_radius=12" width="45%" alt="Top Languages" />
+</div>
+
 
 
 <p align="center">
