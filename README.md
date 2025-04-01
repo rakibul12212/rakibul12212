@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there 👋, I'm Rakibul Islam</h1>
+<h1 align="center">Hi there 👋, I'm MD Rakibul Islam</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=545452&center=true&width=500&lines=Frontend+Developer;React+%7C+Next.js;Building+Sleek+%26+Responsive+UI's;Forever+Learning+New+Tech"" alt="Typing SVG" />  
