@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Rakibul Islam</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7007B&center=true&width=500&lines=Frontend+Web+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Crafting+Beautiful+UIs+with+Code;Always+Learning+New+Tech+%F0%9F%92%A1" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F5200cc&center=true&width=500&lines=Frontend+Web+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Crafting+Beautiful+UIs+with+Code;Always+Learning+New+Tech+%F0%9F%92%A1" alt="Typing SVG" />
 
 </p>
 
@@ -45,7 +45,7 @@
 
 ### 🔗 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/md-rakibul-islam-36582620b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
