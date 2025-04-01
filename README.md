@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Rakibul Islam</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=545452&center=true&width=500&lines=%F0%9F%8C%9F+Frontend+Developer;React+%7C+Next.js+%7C⚡;Building+Sleek+%26+Responsive+UIs+🚀;Forever+Learning+New+Tech+💡"" alt="Typing SVG" />  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=545452&center=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C;Building+Sleek+%26+Responsive+UIs;Forever+Learning+New+Tech"" alt="Typing SVG" />  
 
 
 </p>
