@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&langs_count=8&theme=dark" width="450" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&langs_count=8&theme=dark" width="500" height="200" />
 </p>
 
 <p align="center">
