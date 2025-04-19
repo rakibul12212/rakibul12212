@@ -1,16 +1,4 @@
-<p align="center">
-  <svg width="100%" height="60">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" text-anchor="middle" dy=".35em" font-size="30" font-family="Segoe UI" fill="url(#grad)">
-      I'm MD Rakibul Islam
-    </text>
-  </svg>
-</p>
+<h1> I'm MD Rakibul Islam</h1>
 
 
 <p align="center">
