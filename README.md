@@ -27,15 +27,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/rakibul12212">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakibul12212&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="100%" />
-    <br />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&langs_count=8&theme=dark" width="100%" />
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakibul12212&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="450" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul12212&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F" width="75%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&langs_count=8&theme=dark" width="450" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul12212&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F" width="450" height="200" />
 </p>
 
 ---
