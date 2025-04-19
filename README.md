@@ -27,11 +27,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakibul12212&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="420" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakibul12212&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="430" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&langs_count=8&theme=dark" width="420" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakibul12212&layout=compact&langs_count=8&theme=dark" width="430" height="200" />
 </p>
 
 <p align="center">
