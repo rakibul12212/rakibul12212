@@ -1,4 +1,17 @@
-<h1 align="center">Hi there 👋, I'm MD Rakibul Islam</h1>
+<p align="center">
+  <svg width="100%" height="60">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle" dy=".35em" font-size="30" font-family="Segoe UI" fill="url(#grad)">
+      I'm MD Rakibul Islam
+    </text>
+  </svg>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=545452&center=true&width=500&lines=Frontend+Developer;React+%7C+Next.js;Building+Sleek+%26+Responsive+UI's;Forever+Learning+New+Tech" alt="Typing SVG" />
